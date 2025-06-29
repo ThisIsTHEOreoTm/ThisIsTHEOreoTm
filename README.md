@@ -9,7 +9,7 @@ const TheOreoTM = {
   code: [Javascript, java, HTML, CSS, React_js ],
   tools: [VSCode, Git],
   currently: 'learning Next js , Docker',
-  challenges: ['learning Rust', 'being disciplined in github']
+  challenges: ['learning Rust', 'being a nice person']
 }
 ```
 
