@@ -13,11 +13,9 @@ const TheOreoTM = {
 }
 ```
 <h3>More pointless info</h3>
-![](https://github-readme-stats.vercel.app/api?username=ThisIsTHEOreoTm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ThisIsTHEOreoTm&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsTHEOreoTm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=ThisIsTHEOreoTm&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div>
+  <a href="https://github.com/theoreotm">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theoreotm&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true&include_all_commits=true&theme=catpuccin"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoreotm&layout=compact&langs_count=7&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true&hide=css&size_weight=0.5&count_weight=0.5&theme=catpuccin"/>
+  </a>
+</div>
