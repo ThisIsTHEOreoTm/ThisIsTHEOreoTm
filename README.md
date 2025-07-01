@@ -6,7 +6,7 @@
 
 ```javascript
 const TheOreoTM = {
-  code: [Javascript, java, HTML, CSS, React_js ],
+  code: [Javascript, java, HTML, CSS, React_js, php ],
   tools: [VSCode, Git],
   currently: 'learning Next js , Docker',
   challenges: ['learning Rust', 'being a nice person']
